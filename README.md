@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome!
 😑I am online 😔 working currently on one of my developing web page [kolumnin](https://kolumnin.github.io/)
 
+Please feel free to visit [learning lab](https://lab.github.com/kolumnin) for a systematic introduction to GitHub.
 <!--
 **kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
