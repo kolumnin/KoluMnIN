@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### [🌼KoluMnIN](https://kolumnin.github.io/KoluMnIN/)
-Any viewers, users or editors other than me online now?
+Responses from the viewers help human learning.
 Last update:2022-06-25 18:28(UTC+5:30)
