@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Responses from the viewers help human learning.
-Last update:2022-08-06 08:06(UTC+5:30)
+Last update:2022-11-05 14:17(UTC+5:30)
+
 #### :books: [Recent Blog Posts](https://kolumnin.hashnode.dev)
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
