@@ -3,7 +3,7 @@ Please feel free to visit [learning lab](https://lab.github.com/kolumnin) for a 
 - 🔭 I’m currently working on ### [🌼KoluMnIN](https://kolumnin.github.io/KoluMnIN/)
 
 <!---->
-**kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
