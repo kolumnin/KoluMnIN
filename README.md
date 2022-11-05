@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome!
 Please feel free to visit [learning lab](https://lab.github.com/kolumnin) for a systematic introduction to GitHub.
+- 🔭 I’m currently working on ### [🌼KoluMnIN](https://kolumnin.github.io/KoluMnIN/)
+
 <!---->
 **kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### [🌼KoluMnIN](https://kolumnin.github.io/KoluMnIN/)
 Responses from the viewers help human learning.
 Last update:2022-08-06 08:06(UTC+5:30)
 #### :books: [Recent Blog Posts](https://kolumnin.hashnode.dev)
