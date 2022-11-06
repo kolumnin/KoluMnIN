@@ -1,11 +1,10 @@
 ### Hi there 👋 Welcome!
 Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub.
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
-- 🔭 I’m currently working on ###🌼[KoluMnIN](https://github.io/KoluMnIN/)
+- 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
 
-<!---->
 **kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 Responses from the viewers help human learning.
-Last update:2022-11-05 14:17(UTC+5:30)
+Last update:2022-11-06 13:04(UTC+5:30)
 
 #### :books: [Recent Blog Posts](https://kolumnin.hashnode.dev)
 <!-- BLOGPOSTS:START -->
