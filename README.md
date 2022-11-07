@@ -3,7 +3,7 @@ Please feel free to visit [GitHub learning](https://github.com/) for a systemati
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
 
-**kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  .GitHub profile.
+**kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears as my GitHub profile.
 <!--
 Here are some ideas to get you started:
 
