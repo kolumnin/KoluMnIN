@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 Responses from the viewers help human learning.
 Last update:2022-11-06 13:04(UTC+5:30)
 
-#### : [Recent Blog Posts](https://kolumnin.github.io/Blogs.html)
+#### : [Recent Blog Posts](https://kolumnin.github.io/)
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
