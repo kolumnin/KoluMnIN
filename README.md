@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome!
-Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub.
+Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub. Also the [training-kit](https://github.com/kolumnin/training-kit) could be very useful.  
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
@@ -24,3 +24,4 @@ Last update:2022-11-06 13:04(UTC+5:30)
 
 😎[Recent Blog Posts](https://kolumnin.hashnode.dev/)
 
+Enjoy website building!
