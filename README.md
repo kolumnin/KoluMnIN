@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome!
-Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub.
+Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub and the training-kit.
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
