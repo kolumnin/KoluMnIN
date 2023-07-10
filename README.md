@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 Responses from the viewers help human learning.
 Last update:2023-07-10 13:09(UTC+5:30)
 
-😎[Recent Blog Posts](https://kolumnin.hashnode.dev/)
+😎[Recent Blog Posts](https://kolumnin.hashnode.dev/) 
+
 [Read](https://github.com/KoluMnIN/read.md
 Enjoy website building!
