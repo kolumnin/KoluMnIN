@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome!
-[github](https://github.com/logout) Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub. Also the [training-kit](https://github.com/kolumnin/training-kit) could be very useful.  
+Go directly here [github](https://github.com/login) to signin to GitHub. Please feel free to visit [GitHub learning](https://github.com/) for a systematic introduction to GitHub. Also the [training-kit](https://github.com/kolumnin/training-kit) could be very useful.  
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
