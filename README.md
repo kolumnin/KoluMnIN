@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome!
-Read [github docs](https://docs.github.com) or signin directly here [github](https://github.com/login) into GitHub. Feel free to visit [GitHub learning](https://github.com/) for familiarising with GitHub activities. The [training-kit](https://github.com/kolumnin/training-kit) also could be useful.  
+Read [github docs](https://docs.github.com) or signin directly at [GitHub](https://github.com/login). Feel free to visit [GitHub learning](https://github.com/) for familiarising with GitHub activities. The [training-kit](https://github.com/kolumnin/training-kit) also could be useful.  
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 Responses from the viewers help human learning.
 
-Last update:2024-04-03 12:47(UTC+5:30)
+Last update:2024-04-03 12:49(UTC+5:30)
 
 😎[Recent Blog Posts](https://kolumnin.hashnode.dev/) 
 
