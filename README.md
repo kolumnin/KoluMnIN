@@ -3,7 +3,7 @@ Go directly here [github](https://github.com/login) to signin to GitHub. or feel
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
 - 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
-and the 🧒[website](https://kolumnin.github.io/#gsc.tab=0) https://kolumnin.GitHub.io.
+and the 🧒 [website](https://kolumnin.github.io/#gsc.tab=0) https://kolumnin.GitHub.io.
 
 **kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
