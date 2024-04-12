@@ -2,7 +2,7 @@
 Read [github docs](https://docs.github.com) or signin directly at [GitHub](https://github.com/login). Feel free to visit [GitHub learning](https://github.com/) for familiarising with GitHub activities. The [training-kit](https://github.com/kolumnin/training-kit) also could be useful.  
 You can create beautiful web pages following the instructions [here](https://pages.github.com/?(null))
 
-- 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/)
+- 🔭 I’m currently working on 🌼[KoluMnIN](https://github.com/KoluMnIN/) and [page](https://kolumnin.github.io/KoluMnIN/)
 and the 🧒 [website](https://kolumnin.github.io/#gsc.tab=0) https://kolumnin.GitHub.io.
 
 **kolumnin/KoluMnIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
